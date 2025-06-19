@@ -1,2 +1,7 @@
 This is the user data
 Its just the project doing first time!!!!
+
+Create an avtar for user
+
+
+create an avtar for uer
